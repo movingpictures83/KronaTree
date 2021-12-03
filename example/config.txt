@@ -1,0 +1,2 @@
+Prefix plugins/KronaTree/example/
+Plugin KronaTree inputfile input.krona outputfile output
